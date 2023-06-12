@@ -1,0 +1,11 @@
+*.png
+*.n*
+*.a*
+*.bwt
+*.sa*
+*.p*
+*frequency*
+f
+*test*
+*checkpoints*
+*rsva_bwa.sam*

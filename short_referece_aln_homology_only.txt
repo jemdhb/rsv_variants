@@ -1,0 +1,11 @@
+> NC_001803.1 Respiratory syncytial virus, complete genome
+Length=15191
+ Score = 7136 bits (3864),  Expect = 0.0
+ Identities = 6396/7649 (84%), Gaps = 52/7649 (1%)
+ Strand=Plus/Plus
+ Score = 3576 bits (1936),  Expect = 0.0
+ Identities = 3367/4061 (83%), Gaps = 86/4061 (2%)
+ Strand=Plus/Plus
+ Score = 1607 bits (870),  Expect = 0.0
+ Identities = 1492/1797 (83%), Gaps = 23/1797 (1%)
+ Strand=Plus/Plus

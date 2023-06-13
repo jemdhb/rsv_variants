@@ -3,7 +3,7 @@
 *.a*
 *.bwt
 *.sa*
-*.p*
+*.pac*
 *frequency*
 f
 *test*
